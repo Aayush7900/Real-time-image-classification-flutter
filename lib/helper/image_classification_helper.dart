@@ -10,7 +10,7 @@ import 'package:tflite_flutter/tflite_flutter.dart';
 import 'isolate_inference.dart';
 
 class ImageClassificationHelper {
-  static const modelPath = 'assets/models/test_quant.tflite';
+  static const modelPath = 'assets/models/model12.3_quantized.tflite';
   static const labelsPath = 'assets/models/labels1.txt';
 
   late final Interpreter interpreter;

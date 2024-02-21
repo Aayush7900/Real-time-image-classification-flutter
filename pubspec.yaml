@@ -30,7 +30,6 @@ flutter:
   assets:
     - assets/images/
     - assets/models/
-    - assets/models/custom_model.tflite
     - assets/models/labels1.txt
 
 flutter_launcher_icons:
