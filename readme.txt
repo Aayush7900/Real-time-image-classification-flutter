@@ -1,4 +1,4 @@
-##This is a Flutter application designed for real-time image classification of monuments of Patan Durbar Square using the device's camera. The app captures images through the camera and classifies them using a TensorFlow Lite model.
+## This is a Flutter application designed for real-time image classification of monuments of Patan Durbar Square using the device's camera. The app captures images through the camera and classifies them using a TensorFlow Lite model.
 
 Features
 Real-time image classification through the device camera.
